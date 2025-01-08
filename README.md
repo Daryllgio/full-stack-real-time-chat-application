@@ -44,14 +44,13 @@ IV) Usage
 
 V) File Structure
 
-src/
-├── components/            Reusable components (e.g., chat box, sidebars)
-├── config/                Firebase configuration
-├── context/               Context API for state management
-├── pages/                 Application pages (Login, Profile, Chat)
-├── App.jsx                Main application component
-├── main.jsx               Entry point
-├── index.css              Global styles
+ - components:  Reusable components (e.g., chat box, sidebars)
+ - config: Firebase configuration
+ - context: Context API for state management
+ - pages: Application pages (Login, Profile, Chat)
+ - App.jsx: Main application component
+ - main.jsx: Entry point
+ - index.css: Global styles
 
 VI) Technologies Used
 
