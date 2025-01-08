@@ -1,5 +1,5 @@
 Chat Application:
-This repository contains a project developed by me. It is a React-based chat application designed to help users communicate effectively and manage their profiles seamlessly. Firebase is used for authentication, real-time database management, and cloud functions.
+This repository contains a React-based chat application designed to help users communicate effectively and manage their profiles seamlessly. Firebase is used for authentication, real-time database management, and cloud functions.
 
 I) Overview
 
