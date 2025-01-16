@@ -65,7 +65,7 @@ VI) Technologies Used
 
 Images
 
-<img width="1440" alt="Screenshot 2025-01-16 at 15 09 09" src="https://github.com/user-attachments/assets/6501c3c7-b4c0-4d5f-acaa-3a7315b41a64" />
+<img width="1440" alt="Screenshot 2025-01-16 at 15 28 24" src="https://github.com/user-attachments/assets/684fc82e-00a9-4731-8907-e1c6a70ec653" />
 
 <img width="1440" alt="Screenshot 2025-01-16 at 13 50 56" src="https://github.com/user-attachments/assets/30bb5761-fc7c-46b7-b42b-baa6ee5cfe69" />
 
