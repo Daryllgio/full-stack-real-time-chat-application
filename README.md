@@ -43,11 +43,11 @@ A production-style chat application built with **React + Vite** and **Firebase**
 
 ```mermaid
 flowchart LR
-  A[User] --> B[React (Vite SPA)]
-  B --> C[Firebase Auth]
-  B <--> D[Firestore: users, chats]
-  B --> E[Firebase Storage: images/...]
-  D <--> E
+  A["User"] --> B["React (Vite SPA)"];
+  B --> C["Firebase Auth"];
+  B <--> D["Firestore: users, chats"];
+  B --> E["Firebase Storage: images/..."];
+  D <--> E;
 ```
 
 ---
