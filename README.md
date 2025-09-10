@@ -1,7 +1,3 @@
-You’re right—my bad. Here’s a **recruiter-ready, showcase** README for your **Real-Time Chat App**—no correction-y tone, just a clean, professional presentation that makes the project shine. Paste this into `README.md`.
-
----
-
 # Real-Time Chat Application 💬
 
 ## **Overview**
