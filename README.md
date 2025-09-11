@@ -219,10 +219,12 @@ service firebase.storage {
 ---
 
 ## **Screenshots**
-
-<img width="1440" alt="Screenshot 2025-01-16 at 15 28 24" src="https://github.com/user-attachments/assets/684fc82e-00a9-4731-8907-e1c6a70ec653" />
 <img width="1440" alt="Screenshot 2025-01-16 at 13 50 56" src="https://github.com/user-attachments/assets/30bb5761-fc7c-46b7-b42b-baa6ee5cfe69" />
+<br></br>
+<br></br>
 <img width="1440" alt="Screenshot 2025-01-16 at 15 10 05" src="https://github.com/user-attachments/assets/36a56608-1a94-40be-9c20-e9f75436ee06" />
+<br></br>
+<br></br>
 <img width="1440" alt="Screenshot 2025-01-16 at 02 57 01" src="https://github.com/user-attachments/assets/b28e6663-e102-4b05-8d70-b8a69ae7d9ef" />
 
 ---
