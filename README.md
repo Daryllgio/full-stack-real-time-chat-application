@@ -226,14 +226,3 @@ service firebase.storage {
 <br></br>
 <br></br>
 <img width="1440" alt="Screenshot 2025-01-16 at 02 57 01" src="https://github.com/user-attachments/assets/b28e6663-e102-4b05-8d70-b8a69ae7d9ef" />
-
----
-
-## **Roadmap**
-
-* Group chats & admin controls
-* Typing indicators & read receipts
-* Message reactions & replies
-* Push notifications (Web FCM)
-* Offline cache / optimistic updates
-* Theming (dark mode)
